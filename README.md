@@ -154,6 +154,13 @@ Registro de atividade da conta AWS:
 - Auditoria
 - Conformidade
 - Análise operacional
+- 
+
+
+## Repositorio Anki de cards para estudo:
+- ![Link](https://ankiweb.net/shared/info/59479675)
+- ![Link](https://ankiweb.net/shared/info/449552125)
+- ![Link](https://ankiweb.net/shared/info/1469596231)
 
 ## 💡 Dicas para o Exame
 
